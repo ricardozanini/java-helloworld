@@ -1,4 +1,4 @@
-name: Kogito Runtimes
+name: Java Helloworld
 
 on:
   pull_request:
